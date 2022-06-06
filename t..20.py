@@ -1,0 +1,2 @@
+t.20:
+the expression {} does not represent the empty set. In order to use the curly braces for a set, the set must contain at least one element. The expression set() produces a set with no elements, and thus represents the empty set.
