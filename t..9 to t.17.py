@@ -14,7 +14,7 @@ def zero_sum(num):
   print(x)
   
   t.10:
-   A Python dictionary is an associative container which permits access based on a key, rather than an index. Unlike an index, a key is not restricted to an integer expression.
+   because it permits access based on a key
    
    t.11:
     d = {}
